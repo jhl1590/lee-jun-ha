@@ -4,7 +4,7 @@ int main(void)
 	unsigned int num=0;
 	char ch;
 	printf("첫번째 문자를 입력하시오:");
-	scanf("%c\n", &ch);
+	scanf("%c", &ch);
 	num = num | ch;
 	
 	printf("두번째 문자를 입력하시오:");

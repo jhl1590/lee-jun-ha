@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Project1"
+    "\\11주차 과제",
+    "\\Project1",
+    "\\Project1\\Project1",
+    "\\Project2",
+    "\\Project2\\Project1",
+    "\\Project2\\Project2"
   ],
-  "SelectedNode": "\\Project1\\Project1.sln",
+  "SelectedNode": "\\Project2\\Project1\\소스.c",
   "PreviewInSolutionExplorer": false
 }
